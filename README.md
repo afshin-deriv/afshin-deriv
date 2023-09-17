@@ -2,7 +2,6 @@
 
 [comment]: <img src="language_stats.svg" alt="Top Languages" loading="lazy">
 
-  /\_/\  
- ( o.o ) 
-  > ^ <
+(._.)
+
 
